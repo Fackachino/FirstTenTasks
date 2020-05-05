@@ -2,10 +2,6 @@ import java.util.ArrayList;
 
 public class ThirdTenTasks{
 	public static void main(String[] args){
-		int[] a = {9,8,7,6};
-		int[] b = {4,4,3,1};
-
-		System.out.println(same(a,b));
 	}		
 
 	// Задача 1.
